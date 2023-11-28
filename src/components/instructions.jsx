@@ -33,15 +33,6 @@ const Instructions = () => {
             </li>
           </ul>
         </li>
-        <li>
-          <strong>Create Point D Overlapping Point A:</strong>
-          <ul>
-            <li>
-              Finally, create a new point, labeled as "D," and overlap it with
-              point A. This will complete the triangle ABC.
-            </li>
-          </ul>
-        </li>
       </ul>
     </div>
   );
